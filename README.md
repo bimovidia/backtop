@@ -1,5 +1,4 @@
-# BackTop
-[![Gem Version](https://badge.fury.io/rb/backtop.png)](http://badge.fury.io/rb/backtop)
+# BackTop [![Gem Version](https://badge.fury.io/rb/backtop.png)](http://badge.fury.io/rb/backtop)
 
 BackTop provides a back-to-top functionality for use with your rails application. It will append a back to top icon at the bottom right corner when user scrolls below the top fold.
 
@@ -41,3 +40,7 @@ In your `application.js`, include the js file:
 Then restart your webserver if it was previously running.
 
 Congrats! You now have back to top functionality in your app.
+
+## Copyright
+
+BackTop is licensed under the [MIT License](http://opensource.org/licenses/mit-license.html)
