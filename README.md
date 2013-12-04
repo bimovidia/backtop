@@ -1,4 +1,5 @@
 # BackTop
+[![Gem Version](https://badge.fury.io/rb/backtop.png)](http://badge.fury.io/rb/backtop)
 
 BackTop provides a back-to-top functionality for use with your rails application. It will append a back to top icon at the bottom right corner when user scrolls below the top fold.
 
